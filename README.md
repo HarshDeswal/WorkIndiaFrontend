@@ -1,8 +1,4 @@
-# React + Vite
+# WorkIndia Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Screenshots
+<img width="1552" alt="Screenshot 2023-09-10 at 10 49 13" src="https://github.com/HarshDeswal/WorkIndiaFrontend/assets/94471009/b19a2926-d2d8-48ba-af9e-7dd675800af6">
