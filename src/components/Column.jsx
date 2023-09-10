@@ -2,7 +2,7 @@ import React from "react";
 import CandidateCard from "./CandidateCard";
 
 function Column({ data, title }) {
-	console.log(title);
+	
 	return (
 		<div className=" flex flex-col items-start">
 			<div className="mb-8">
